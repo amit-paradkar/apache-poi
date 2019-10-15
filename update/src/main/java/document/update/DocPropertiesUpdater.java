@@ -41,10 +41,6 @@ public class DocPropertiesUpdater {
 			
 			processDocument();
 			
-			if(!this.documentUpdated) {
-				
-			}
-			
 			closeDocument();
 		}
 		
